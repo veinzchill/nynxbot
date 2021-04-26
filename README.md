@@ -1,3 +1,6 @@
+#Note!
+This project is no longer continues open source.
+
 # What Is Nynx
 Nynx is a simple discord bot with simple features
 

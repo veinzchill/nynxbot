@@ -1,4 +1,4 @@
-#Note!
+# Note!
 This project is no longer continues open source.
 
 # What Is Nynx
